@@ -36,9 +36,6 @@ web site</a>:
 ## Loading the data
 
 
-
-
-
 When loading the dataset into R, please consider the following:
 
 * The dataset has 2,075,259 rows and 9 columns. First
@@ -68,8 +65,6 @@ using the base plotting system.
 First you will need to fork and clone the following GitHub repository:
 [https://github.com/rdpeng/ExData_Plotting1](https://github.com/rdpeng/ExData_Plotting1)
 
-
-For each plot you should
 
 * Construct the plot and save it to a PNG file with a width of 480
 pixels and a height of 480 pixels.
